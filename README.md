@@ -1,8 +1,7 @@
 # ITP-380-Projects
 作品名　　：Super Mario Bros.
- Work Name
+
  作成期間　：1 week
- Time Frame
 
 -----------------------------------------------------------------------------
  プログラム作品の開発環境についてご記入ください
@@ -58,9 +57,9 @@ Because this project was for a class I cannot publicly display my code.  If you 
 
 
 作品名　　：The Legend of Zelda
- Work Name
+
  作成期間　：1 week
- Time Frame
+
 
 -----------------------------------------------------------------------------
  プログラム作品の開発環境についてご記入ください
@@ -115,10 +114,10 @@ I'm glad I was able to use callback functions to implement specific object behav
 Because this project was for a class I cannot publicly display my code.  If you would like to see the code I wrote, please contact me and let me know so that I can send my code directly and privately.
 
 
-作品名　　：Supace Tunnel
- Work Name
+作品名　　：Space Tunnel
+
  作成期間　：1 week
- Time Frame
+
 
 -----------------------------------------------------------------------------
  プログラム作品の開発環境についてご記入ください

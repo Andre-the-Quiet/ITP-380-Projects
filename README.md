@@ -45,7 +45,7 @@ I had trouble initially figuring out how to load in more blocks and obstacles as
 
 -----------------------------------------------------------------------------
  力をいれて作った部分で、「プログラム上」で特に注意してみてもらいたい所は？
- What points do you want us particulary focus on your work?
+ What points do you want us particularly focus on your work?
 -----------------------------------------------------------------------------
 I'm happy I was able to correctly use matrices of the camera space and the world space to have the camera follow the ship as it moves down the corridor.  I'm also pleased with how I programmed the red exploding blocks to destroy blocks in a radius around it which can cause other red blocks to explode as well in a chain reaction.
 
@@ -103,7 +103,7 @@ Implementing the camera was difficult because it had to follow Mario when he tra
 
 -----------------------------------------------------------------------------
  力をいれて作った部分で、「プログラム上」で特に注意してみてもらいたい所は？
- What points do you want us particulary focus on your work?
+ What points do you want us particularly focus on your work?
 -----------------------------------------------------------------------------
 I'm pleased I was able to successfully check collisions between Mario, the platforms, and the Goombas because it was my first time having to check for collisions between game objects and then implement specific behaviors upon colliding.
 
@@ -162,9 +162,9 @@ Using a tile map to create the dungeon was challenging because I had to make sur
 
 -----------------------------------------------------------------------------
  力をいれて作った部分で、「プログラム上」で特に注意してみてもらいたい所は？
- What points do you want us particulary focus on your work?
+ What points do you want us particularly focus on your work?
 -----------------------------------------------------------------------------
-I'm glad I was able to use callback functions to implement specific object behaviors in the game such as collectibles and enemies taking dameage.  Additionally, I was able to create and implement a rage mode for the dungeon boss when its health was low.
+I'm glad I was able to use callback functions to implement specific object behaviors in the game such as collectibles and enemies taking damage.  Additionally, I was able to create and implement a rage mode for the dungeon boss when its health was low.
 
 -----------------------------------------------------------------------------
  参考にしたソースファイルがあるのなら、 どの様なところを参考にしましたか？

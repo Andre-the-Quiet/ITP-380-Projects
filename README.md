@@ -1,7 +1,5 @@
 # ITP-380-Projects
-
-
-
+-----------------------------------------------------------------------------
 作品名　　：Space Tunnel
 
  作成期間　：1 week
@@ -60,7 +58,7 @@ I'm happy I was able to correctly use matrices of the camera space and the world
 Because this project was for a class I cannot publicly display my code.  If you would like to see the code I wrote, please contact me and let me know so that I can send my code directly and privately.
 
 
-
+-----------------------------------------------------------------------------
 作品名　　：Super Mario Bros.
 
  作成期間　：1 week
@@ -118,7 +116,7 @@ I'm pleased I was able to successfully check collisions between Mario, the platf
 Because this project was for a class I cannot publicly display my code.  If you would like to see the code I wrote, please contact me and let me know so that I can send my code directly and privately.
 
 
-
+-----------------------------------------------------------------------------
 作品名　　：The Legend of Zelda
 
  作成期間　：1 week

@@ -1,5 +1,5 @@
 # ITP-380-Projects
-This is a collection of projects completed for the course ITP 380: Video Game Programming at USC.  In this course, I have re-created many classic games using C++ and assets provided by the class.
+This is a collection of projects completed for the course ITP 380: Video Game Programming at USC.  In this course, I have recreated many classic games using C++ and assets provided by the class.
 
 - Super Mario Bros. (1985)
 
@@ -15,6 +15,6 @@ I used a tile map csv file to create the dungeon and implemented collectibles th
 
 - Space Tunnel
 
-This 3D game is not emulating any specific game, but is inspired by games like X-Wing Alliance (1999) where you fly a space ship into a narrow corridor and must avoid obstacles in your path.
+This 3D game does not emulate any specific game, but it is inspired by games like X-Wing Alliance (1999) where you fly a space ship into a narrow corridor and must avoid obstacles in your path.
 
-I implemented a camera that follows the ship as it moves forward through the corridor using matrix transformations.  I also generate more obstacles and game objects in front of the ship as it continues forward to create an endless mode.
+I implemented a camera that follows the ship as it moves forward through the corridor using matrix transformations.  I also generate more obstacles and game objects in front of the ship as it continues forward to create an endless mode.  

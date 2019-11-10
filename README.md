@@ -1,5 +1,5 @@
 # ITP-380-Projects
-This is a collection of projects completed for the course ITP 380: Video Game Programming at USC.  In this course, I have recreated many classic games using C++ and assets provided by the class.
+This is a collection of projects completed for the course ITP 380: Video Game Programming at USC.  In this course, I have recreated many classic games using C++ and assets provided by the class.  As these projects were created for the course, I cannot have any code publicly available in my repository.  Please contact me directly at pascualgamedesign@gmail.com, so that I can send you my code privately.
 ------------------------------------------------------------------------------------------------------------------------------------------
 Super Mario Bros. (1985)
 

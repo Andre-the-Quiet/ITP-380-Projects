@@ -1,5 +1,11 @@
 # Solo-Projects
-This is a collection of projects completed for programming courses at USC.  I have recreated features of classic games using C++ and assets provided by the class.  As these were class projects, I cannot have any code publicly available in my repository.  But you may contact me directly at pascualgamedesign@gmail.com, so that I can send you my code privately.
+This is a collection of projects completed for programming courses at USC. I have recreated features of classic games using C++ and simple game engine functionality with assets provided by professors. As these were class projects, I cannot have any code publicly available in my repository. But you may contact me directly at pascualgamedesign@gmail.com, so that I can send my code privately.
+----------------------------------------------------------------------------------------------------------------------------------------
+Simple Game Engine
+
+A basic game engine that 
+
+I programmed shaders and post-processing effects with DirectX and HLSL. I created a job system to handle multiple animations running in parallel. I practised test-driven design for making physics collisions with ray casting and axis-aligned bounding boxes.
 ----------------------------------------------------------------------------------------------------------------------------------------
 Parkour's Edge
 
